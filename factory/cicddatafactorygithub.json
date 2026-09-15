@@ -1,0 +1,15 @@
+{
+	"name": "cicddatafactorygithub",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a007d923-9363-4c24-9102-58e59b77a5d1",
+		"tenantId": "7dc05891-4db7-431b-bd2b-8e82d225a54f"
+	}
+}
